@@ -12,7 +12,7 @@
 
 소스 작성시
 
-```c 
+```c (작성 언어)
 #include <stdio.sh>
 
 int main(void) {
